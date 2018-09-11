@@ -66,22 +66,26 @@ projects:
         link: "http://vadimdovgopol.github.io/portfolio/Urlaubsgluck/"
 
     title: "Skills &amp; Proficiency"
+    
     skills:
-        - skill:
-          name: "Javascript & jQuery"
-          level: "80%"
-        - skill:
-          name: "Angular"
-          level: "65%"
-        - skill:
-          name: "Vue"
-          level: "45%"
-        - skill:
-          name: "HTML5 & CSS"
-          level: "95%"
-        - skill:
-          name: "Node"
-          level: "20%"
-        - skill:
-          name: "Photoshop & Illustrator"
-          level: "60%"
+    title: Skills &amp; Proficiency
+
+    toolset:
+       - name: Javascript & jQuery
+         level: 80%
+         
+       - name: Angular
+         level: 65%
+         
+       - name: Vue
+         level: 45%
+         
+       - name: HTML5 & CSS
+         level: 95%
+         
+       - name: Node
+         level: 20%
+         
+       - name: Photoshop & Illustrator
+         level: 60%
+   
