@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Vadym Dovhopol
@@ -41,88 +41,51 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Developed CLM presentation, web site and Angular app for ios and android
+      Developing CLM presentation, website and Angular app for ios and android.
       
 experiences:
     - role: Junior Front-end Developer
       time: Jan 2017 - Mar 2017
       company: Mauris
-      details: Developed applications for ios and android use Angularjs and Cordova.js
+      details: Developing applications for ios and android use Angularjs and Cordova.js
       
-    - role: Junior Front-end Developer
-      time: Jan 2017 - Mar 2017
-      company: Mauris
-      details: Developed applications for ios and android use Angularjs. Developed CLM presentation in CRM system (Veeva, MI Touch, Team Soft). Developed websites
+    - role: Junior/Middle Front-end Developer
+      time: Jun 2017 - Present
+      company: 11th floor
+      details: Developing applications for ios and android use Angularjs. Developing CLM presentation in CRM system (Veeva, MI Touch, Team Soft). Developing websites. Have experience in animated dom elements using greensock
       
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: letknow.news
+        link: "http://letknow.news/"
+        tagline: "Big news portal about the news of the crypto world"
+        
+      - title: Adaptive websites Urlaubsgluck
+        link: "http://vadimdovgopol.github.io/portfolio/Urlaubsgluck/"
+        
+      - title: Adaptive websites
+        link: "VadimDovgopol.github.io/testWorkForFoxima/"
+        
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    title: "Skills &amp; Proficiency"
+    skills:
+        - skill:
+          name: "Javascript & jQuery"
+          level: "80%"
+        - skill:
+          name: "Angular"
+          level: "65%"
+        - skill:
+          name: "Vue"
+          level: "45%"
+        - skill:
+          name: "HTML5 & CSS"
+          level: "95%"
+        - skill:
+          name: "Node"
+          level: "20%"
+        - skill:
+          name: "Photoshop & Illustrator"
+          level: "60%"
