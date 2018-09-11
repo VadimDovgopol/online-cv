@@ -64,11 +64,7 @@ projects:
         
       - title: Adaptive websites Urlaubsgluck
         link: "http://vadimdovgopol.github.io/portfolio/Urlaubsgluck/"
-        
-      - title: Adaptive websites
-        link: "VadimDovgopol.github.io/testWorkForFoxima/"
-        
-skills:
+
     title: "Skills &amp; Proficiency"
     skills:
         - skill:
