@@ -69,46 +69,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
       - name: Angular
-        level: 98%
+        level: 60%
+
+      - name: Vue
+        level: 45%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Node
+        level: 20%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-
-#     skills:
-#     title: Skills &amp; Proficiency
-
-#     toolset:
-#        - name: Javascript & jQuery
-#          level: 80%
-         
-#        - name: Angular
-#          level: 65%
-         
-#        - name: Vue
-#          level: 45%
-         
-#        - name: HTML5 & CSS
-#          level: 95%
-         
-#        - name: Node
-#          level: 20%
-         
-#        - name: Photoshop & Illustrator
-#          level: 60%
-   
